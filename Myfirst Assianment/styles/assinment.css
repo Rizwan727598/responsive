@@ -1,0 +1,47 @@
+/* Extra Mile Section Styles */
+.extra-mile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-color: #2c2c2c;
+    border-radius: 10px;
+    margin: 40px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.extra-mile-content {
+    max-width: 50%;
+}
+
+.extra-mile h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.extra-mile p {
+    font-size: 16px;
+    color: #aaa;
+    margin-bottom: 30px;
+}
+
+.extra-mile .btn {
+    padding: 12px 25px;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: #ff4b4b;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.extra-mile-image {
+    max-width: 45%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.extra-mile-image img {
+    width: 100%;
+    border-radius: 10px;
+}
